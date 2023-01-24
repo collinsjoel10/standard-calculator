@@ -162,9 +162,9 @@ for (item of buttons) {
 
 ## OUTPUT:
 
-![OUTPUT](./static/images/result1.png)
+![OUTPUT](./images/result1.png)
 
-![OUTPUT](./static/images/result2.png)
+![OUTPUT](./images/result2.png)
 
 ## Result:
 
